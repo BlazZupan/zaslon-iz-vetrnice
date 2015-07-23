@@ -1,4 +1,4 @@
-## ->POTEK DELAVNICE PO DNEVIH<-
+## <p style='text-align: center;'>POTEK DELAVNICE PO DNEVIH </p>
 
 Dan 1:
 
